@@ -1,17 +1,13 @@
 # Uber Trip Analysis and Prediction
 
 ## Overview
+This project analyzes Uber trip data to predict trip durations, helping optimize urban mobility.
 
-![Overview Analysis Dashboard](./images/overview-analysis.png)
+## Images
+- ![Screenshot 1](./images/screenshot-1.png)
+- ![Screenshot 2](./images/screenshot-2.png)
+- ![Screenshot 3](./images/screenshot-3.png)
+- ![Screenshot 4](./images/screenshot-4.png)
 
-## Detailed Analysis
-
-![Detailed Trip Analysis Dashboard](./images/detailed-trip-analysis.png)
-
-## Time-Based Analysis
-
-![Time-Based Analysis Dashboard](./images/time-based-analysis.png)
-
-## Machine Learning Predictions
-
-![Machine Learning Prediction Dashboard](./images/ml-prediction-dashboard.png)
+## Conclusion
+In this project, we aimed to improve trip predictions by analyzing patterns in Uber trip data.
