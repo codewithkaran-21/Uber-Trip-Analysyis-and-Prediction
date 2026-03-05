@@ -168,7 +168,6 @@ Key Insights Visuals:
 -   Bookings by Vehicle
 -   Daily booking trend
 
-![Overview Analysis Dashboard](Screenshot 2026-03-04 180808.png)
 ------------------------------------------------------------------------
 
 ### 2️⃣ Detailed Trip Analysis
@@ -187,7 +186,7 @@ Includes:
 -   Pickup Location
 
 Used for operational investigation and filtering.
-![Detailed Trip Analysis Dashboard](Screenshot 2026-03-04 181004.png)
+
 ------------------------------------------------------------------------
 
 ### 3️⃣ Time-Based Analysis
@@ -202,7 +201,7 @@ Visuals include:
 -   Booking distribution by hour
 
 This helps identify **peak demand periods**.
-![Time-Based Analysis Dashboard](Screenshot 2026-03-04 180922.png)
+
 ------------------------------------------------------------------------
 
 # 📊 Machine Learning Prediction Dashboard
@@ -222,7 +221,7 @@ Key Metrics:
 -   Predicted Fare Revenue: \~567K
 -   Average Fare: 8.46
 -   Model Accuracy: \~99.8%
-![Machine Learning Prediction Dashboard](Screenshot 2026-03-04 181049.png)
+
 ------------------------------------------------------------------------
 
 # ☁️ Microsoft Fabric Implementation
@@ -320,22 +319,22 @@ GitHub: https://github.com/codewithkaran-21
 ## Introduction
 This project analyzes Uber trip data to identify patterns and make predictions about future trips.
 
-![Screenshot 1](./images/screenshot-1.png)
+![Screenshot 1](./images/overview.png)
 
 ## Data Sources
 - Uber Trip Data
 
-![Screenshot 2](./images/screenshot-2.png)
+![Screenshot 2](./images/detail.png)
 
 ## Analysis Results
 The analysis revealed the following insights:
 1. Peak trip times
 2. Most popular destinations
 
-![Screenshot 3](./images/screenshot-3.png)
+![Screenshot 3](./images/time.png)
 
 ## Conclusion
 The project provides valuable insights for improving Uber services.
 
-![Screenshot 4](./images/screenshot-4.png)
+![Screenshot 4](./images/prediction.png)
 >>>>>>> 43ff5eaaed0c77c9bc781e05af66d76bf5c501d9
